@@ -15,6 +15,8 @@ Requirements for running my code:-
 4. Visual Studio Code
 
 Task Mapping:-
+| Task | Task Name | Task Description
+|-----| ---------| ---------------|
 | Task 1 | Price after discount | We used function to discount the price available to us. If the discount in not given default discount of 5% is applied |
 | Task 2 | Factorial Utiity | The recursive function is used to calculate the factorial
 | Task 3 | GST Calculator | Lambda function is used to calculate the Gst on the discounted price
